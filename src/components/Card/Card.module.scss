@@ -1,0 +1,26 @@
+.shoes {
+  width: 250px;
+  height: 200px;
+  margin-right: 50px;
+  margin-bottom: 150px;
+  text-align: center;
+  position: relative;
+  .img_block {
+    
+    padding: 20px;
+    border-radius: 20px;
+    height: 200px;
+    cursor: pointer;
+        :hover{
+            transform: scale(1.1);
+            
+        }
+    .img{
+        transition: transform 0.3s;
+    }
+    
+  }
+  
+  }
+  
+
